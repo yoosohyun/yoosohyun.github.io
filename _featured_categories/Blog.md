@@ -3,7 +3,7 @@ layout: list
 title: Blog
 slug: Blog
 menu: true
-order: 1
+order: 2
 
 accent_color: rgb(38,139,210)
 accent_image:
