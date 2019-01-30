@@ -3,7 +3,7 @@ layout: list
 title: Portfolio
 slug: Portfolio
 menu: true
-order: 2
+order: 1
 description: >
 
 accent_color: rgb(38,139,210)
