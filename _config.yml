@@ -24,7 +24,7 @@ title:                 sohyun
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-sh 블로그    
+   sh 블로그   
 
 # A list of keywords for your blog
 keywords:              []
