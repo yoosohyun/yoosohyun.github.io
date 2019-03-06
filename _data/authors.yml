@@ -23,7 +23,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     
-    github:          <https://github.com/yoosohyun>
+    github:          https://github.com/yoosohyun
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
     # facebook:        <username>
@@ -71,7 +71,7 @@ author2:
     Open `_data/authors.yml` to edit this text.
   picture:           https://placehold.it/128x128
  
-  github:            <https://github.com/yoosohyun>
+  github:            https://github.com/yoosohyun
   accent_color:      '#268bd2'
   accent_image:
     background:      '#202020'
