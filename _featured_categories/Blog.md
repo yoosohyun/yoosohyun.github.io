@@ -6,7 +6,6 @@ menu: true
 order: 1
 description: >
 일상 이야기
-  overlay:    false
 
- 
+  overlay:    false
 ---
