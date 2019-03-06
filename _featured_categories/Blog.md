@@ -5,7 +5,9 @@ slug: Blog
 menu: true
 order: 1
 description: >
-일상 이야기
+  Hyde is a brazen two-column Jekyll theme that pairs a prominent sidebar with uncomplicated content.
+  It’s based on Poole, the Jekyll butler.
+  Open `_featured_tags/hyde.md` to edit this text.
 
   overlay:    false
 ---
